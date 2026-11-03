@@ -2,7 +2,8 @@
 
 Trang landing page đăng ký tư vấn và kết nối hợp tác đại lý tròng kính Rocky tại Hội nghị Nhãn khoa Việt Nam VOS 2026 (Ariyana Convention Centre Đà Nẵng).
 
-- **Trực tiếp (GitHub Pages)**: [https://25phongsusu.github.io/vos-rocky/](https://25phongsusu.github.io/vos-rocky/)
+- **Vercel (Production)**: [https://vos-rocky.vercel.app](https://vos-rocky.vercel.app)
+- **GitHub Pages**: [https://25phongsusu.github.io/vos-rocky/](https://25phongsusu.github.io/vos-rocky/)
 - **Google Sheet lưu trữ thông tin đăng ký**: [Mở Google Sheet](https://docs.google.com/spreadsheets/d/1kbLysT60InOhoTPOYlwQVuwi11IUbrYh3vPaZXoHGQM/edit?gid=2037923750#gid=2037923750)
 
 ---
